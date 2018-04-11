@@ -9,6 +9,11 @@ Be sure that you have download and install CPU or GPU, CUDA & cuDNN
 Open your terminal and install:
 
 Numpy: https://pypi.python.org/pypi/numpy
+
 Keras: https://keras.io/#installation
+
 Scikit-learn: http://scikit-learn.org/stable/install.html
+
 Matplotlib: https://matplotlib.org/users/installing.html
+
+Seaborn: https://seaborn.pydata.org/installing.html (it comes with Pandas)
